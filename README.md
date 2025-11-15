@@ -18,8 +18,11 @@ A lightweight **Streamlit web application** that evaluates a user’s BNPL (Buy 
 ## 📂 Project Structure
 
 ├── app.py # Streamlit application
+
 ├── bnpl_model.pkl # Trained ML model (not included)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ---
